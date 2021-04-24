@@ -3,7 +3,7 @@
 
 <a href="https://18bok.blogspot.com">Officiell Hemsida</a>
 
-  <img src="https://1.bp.blogspot.com/-y03y0m6i2W0/YDncMTwiCJI/AAAAAAAAEzE/b0xEFCpjOYsx3RQnasB65oVBE5c-aGMjgCNcBGAsYHQ/s460/Sk%25C3%25A4rmklipp.PNG">
+  <img src="https://1.bp.blogspot.com/-4AdiF73WQiY/YIRKpNu0e5I/AAAAAAAAE6E/0YdXnoSFSEkNZe-lzcwrl8cTQkg_XChTwCNcBGAsYHQ/s460/test.png">
 
 Mer information kommer...stay tuned
 
