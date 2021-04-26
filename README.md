@@ -20,7 +20,7 @@ Ett simpelt och litet programm med GUI för att "konvertera" äldre svenska (fr�
 1. Ladda ner och extrahera filerna eller via terminal: `git clone https://github.com/starinspace/18BOK-OLD2NEW.git`
 2. Ladda ner [Win-PS2EXE](https://github.com/MScholtes/PS2EXE), extrahera filerna och kör programmet.
 3. Välj "Source file" (ps1-filen), och välj de uppgifter som krävs och klicka på "Compile".
-4. Tänk på att "egenordbok.xml" måste ligga i samma mapp som exe-filen för programmet ska funka.
+4. För att programmet ska funka måste du ladda ner senaste ordboken, du kan antingen göra detta i programmet under fliken "Ordboken" eller ladda ner manuellt här på github.
 
 ## Filerna
 
