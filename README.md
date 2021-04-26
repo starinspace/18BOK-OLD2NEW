@@ -10,6 +10,16 @@ Ett simpelt och litet programm med GUI för att "konvertera" äldre svenska (fr�
 * Linux [kräver [PowerShell 7.1+](https://docs.microsoft.com/sv-se/powershell/scripting/install/installing-powershell-core-on-linux?view=powershell-7.1) installerat samt små justeringar i ps1-filen]
 * MacOs [Kräver [PowerShell 7.1+](https://docs.microsoft.com/sv-se/powershell/scripting/install/installing-powershell-core-on-macos?view=powershell-7.1) installerat samt små justeringar i ps1-filen]
 
+## Tutorial
+
+###
+1. När du startar programmet för första gången behöver du gå till fliken "Ordboken" och klicka på "Ladda ner senaste ordboken". Du kan senare jämföra version på ordboken med online-versionen genom att klicka på "Titta ny version".
+2. Konvertera en bok går du till fliken "Konvertera Bok", "Välj Bok" och välj en passande fil, klicka på "Konvertera", det här kommer ta en stund, så avsluta inte programmet före den är klar.
+
+## Böcker/Filer programmet har som support
+
+###
+HTM, HTML, TXT. (Kommande är epub, docx)
 
 ## Skärmbild
 <img src="https://1.bp.blogspot.com/-4AdiF73WQiY/YIRKpNu0e5I/AAAAAAAAE6E/0YdXnoSFSEkNZe-lzcwrl8cTQkg_XChTwCNcBGAsYHQ/s460/test.png">
