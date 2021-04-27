@@ -22,7 +22,8 @@ Ett simpelt och litet programm med GUI för att "konvertera" äldre svenska (fr�
 HTM, HTML, TXT. (Kommande är epub, docx)
 
 ## Skärmbild
-<img src="https://1.bp.blogspot.com/-4AdiF73WQiY/YIRKpNu0e5I/AAAAAAAAE6E/0YdXnoSFSEkNZe-lzcwrl8cTQkg_XChTwCNcBGAsYHQ/s460/test.png">
+<img width="30%" src="https://1.bp.blogspot.com/-zmLWkSFimCI/YIbPvL6-2LI/AAAAAAAAE6o/jIirV8oYFt8lNhhPeV8veJoLfsx1nZ-jQCNcBGAsYHQ/s16000/kon3.PNG">
+<img width="30%" src="https://1.bp.blogspot.com/-CsgGK3SSgHI/YIbPvUgQCSI/AAAAAAAAE6w/4Cvu6dtlscQrtSx5le6yY-nhPUs1npAPQCNcBGAsYHQ/s16000/ordboken.PNG">
 
 ## Bygg din egna fil
 
