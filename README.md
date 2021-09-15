@@ -3,7 +3,7 @@ Ett simpelt och litet programm med GUI för att "konvertera" äldre svenska (fr�
 
 ## [OFFICIELL HEMSIDA](https://18bok.blogspot.com)
 
-## Plattformar som stödjs
+## Plattformar som stöds
 
 * Windows 7, 8, 8.1 samt 10 [Finns som [Windows Portable](https://github.com/starinspace/18BOK-OLD2NEW/releases)]
 * Windows 10 [Finns som [Windows Portable](https://github.com/starinspace/18BOK-OLD2NEW/releases), som ps1-fil kräver den små justeringar]
@@ -13,13 +13,17 @@ Ett simpelt och litet programm med GUI för att "konvertera" äldre svenska (fr�
 ## Tutorial
 
 ###
-1. När du startar programmet för första gången behöver du gå till fliken "Ordboken" och klicka på "Ladda ner senaste ordboken". Du kan senare jämföra version på ordboken med online-versionen genom att klicka på "Titta ny version".
-2. Konvertera en bok går du till fliken "Konvertera Bok", "Välj Bok" och välj en passande fil, klicka på "Konvertera", det här kommer ta en stund, så avsluta inte programmet före den är klar.
+1. När du startar programmet för första gången behöver du gå till fliken "**Ordboken**" och klicka på "**Ladda ner senaste ordboken**". Du kan senare jämföra version på ordboken du laddat ner med online-versionen genom att klicka på "Titta ny version", om den är nyare klickar du på "**Ladda ner senaste ordboken**".
+2. För att konvertera en bok går du till fliken "Konvertera Bok", "Välj Bok" och välj en passande fil, klicka på "Konvertera", det här kommer ta en stund, så avsluta inte programmet före den är klar.
 
 ## Böcker/Filer programmet har som support
 
 ###
-HTM, HTML, TXT. (Kommande är epub, docx)
+*HTM
+HTML
+XHTML
+TXT*
+(Kommande till version 2 är epub, docx)
 
 ## Skärmbild
 <img border="0" data-original-height="604" data-original-width="927" src="https://1.bp.blogspot.com/-p_digNR7S1w/YI7IQ3nfIgI/AAAAAAAAE8I/nQwlnnjZkZsbeXc9J3IlOn5swgIMjMbUQCNcBGAsYHQ/s320/01.PNG" width="320" /> <img border="0" data-original-height="604" data-original-width="927" src="https://1.bp.blogspot.com/-aoMbIWzdAek/YI7IQ3muelI/AAAAAAAAE8E/HoGbo-9xUBMcndX8mCK9jst67Vj0IJtWgCNcBGAsYHQ/s320/02.PNG" width="320" />
