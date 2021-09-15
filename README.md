@@ -1,5 +1,5 @@
 # 18BOK-OLD2NEW
-Ett simpelt och litet programm med GUI för att "konvertera" äldre svenska (från cirka 1600-1910) till något mer modernt . Då äldre böcker innehåller en svenska som kan vara svår att läsa och förstå. Ord som är glömda, förlegade eller helt enkelt tappat sin betydelse idag. För att man ska kunna läsa böcker som är äldre som annars kan falla i glömska startade jag detta projekt.
+Ett simpelt och litet program med GUI för att "konvertera" äldre svenska (från cirka 1600-1910) till något mer modernt . Då äldre böcker innehåller en svenska som kan vara svår att läsa och förstå. Ord som är glömda, förlegade eller helt enkelt tappat sin betydelse idag. För att man ska kunna läsa böcker som är äldre som annars kan falla i glömska startade jag detta projekt.
 
 ## [OFFICIELL HEMSIDA](https://18bok.blogspot.com)
 
