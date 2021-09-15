@@ -13,8 +13,8 @@ Ett simpelt och litet programm med GUI för att "konvertera" äldre svenska (fr�
 ## Tutorial
 
 ###
-1. När du startar programmet för första gången behöver du gå till fliken "**Ordboken**" och klicka på "**Ladda ner senaste ordboken**". Du kan senare jämföra version på ordboken du laddat ner med online-versionen genom att klicka på "Titta ny version", om den är nyare klickar du på "**Ladda ner senaste ordboken**".
-2. För att konvertera en bok går du till fliken "Konvertera Bok", "Välj Bok" och välj en passande fil, klicka på "Konvertera", det här kommer ta en stund, så avsluta inte programmet före den är klar.
+1. När du startar programmet för första gången behöver du gå till fliken "**Ordboken**" och klicka på "**Ladda ner senaste ordboken**". Du kan senare jämföra version på ordboken du laddat ner med online-versionen genom att klicka på **"Titta ny version**", om den är nyare klickar du på "**Ladda ner senaste ordboken**".
+2. För att konvertera en bok går du till fliken "**Konvertera Bok**", "**Välj Bok**" och välj en passande fil, klicka på "**Konvertera**", det här kommer ta en stund, så avsluta inte programmet före den är klar.
 
 ## Böcker/Filer programmet har som support
 
