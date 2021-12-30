@@ -5,8 +5,8 @@ Ett simpelt och litet program med GUI för att "konvertera" äldre svenska (frå
 
 ## Plattformar som stöds
 
-* Windows 7, 8, 8.1 samt 10 [Finns som [Windows Portable](https://github.com/starinspace/18BOK-OLD2NEW/releases)]
-* Windows 10 [Finns som [Windows Portable](https://github.com/starinspace/18BOK-OLD2NEW/releases), som ps1-fil kräver den små justeringar]
+* Windows 7, 8, 8.1, 10 samt 11 [Finns som [Windows Portable](https://github.com/starinspace/18BOK-OLD2NEW/releases)]
+* Windows 10 & 11 [Finns som [Windows Portable](https://github.com/starinspace/18BOK-OLD2NEW/releases), som ps1-fil kräver den små justeringar]
 * Linux [kräver [PowerShell 7.1+](https://docs.microsoft.com/sv-se/powershell/scripting/install/installing-powershell-core-on-linux?view=powershell-7.1) installerat samt små justeringar i ps1-filen]
 * MacOs [Kräver [PowerShell 7.1+](https://docs.microsoft.com/sv-se/powershell/scripting/install/installing-powershell-core-on-macos?view=powershell-7.1) installerat samt små justeringar i ps1-filen]
 
